@@ -1,7 +1,7 @@
 {
   "name": "chatuu",
   "version": "1.0.0",
-  "description": "𝙲ᑕᕼᗩTᑌᗯᗩ ᙭ᗰᗪ WhatsApp Bot with Multi-Number Support",
+  "description": "CHATUWA XMDWhatsApp Bot with Multi-Number Support",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
