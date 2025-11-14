@@ -27,7 +27,7 @@ const {
 
 // ---------------- CONFIG ----------------
 
-const BOT_NAME_FANCY = 'ᑕᕼᗩTᑌᗯᗩ ᙭ᗰᗪ';
+const BOT_NAME_FANCY = 'CHATUWA XMD';
 
 const config = {
   AUTO_VIEW_STATUS: 'true',
