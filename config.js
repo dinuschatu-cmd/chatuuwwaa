@@ -12,7 +12,7 @@ module.exports = {
     NEWSLETTER_MESSAGE_ID: '428',
     OTP_EXPIRY: 300000,
     NEWS_JSON_URL: '',
-    BOT_NAME: '𝗦𝗘𝗡𝗨 𝗠𝗗 𝗩5',
+    BOT_NAME: 'CHATUWA XMD',
     OWNER_NAME: 'CHATUWA',
     OWNER_NUMBER: '94741336839',
     BOT_VERSION: '1.0.0',
